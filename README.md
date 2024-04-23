@@ -4,7 +4,7 @@ I hope that these scripts, brewed from a teaspoon of efficiency and a big cup of
 
 For most, they would have been quite helpful to have when I started my journey as a young bioinformatics padawan.
 
-**Find a script:**
+**Find a script:**  
 programName_task.sh  
 
 Feel free to use, modify and/or improve those scripts as you please. Let's be lazy together, but in a productive way!  
