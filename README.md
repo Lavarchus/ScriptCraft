@@ -2,7 +2,7 @@ This repository houses a miscellaneous collection of scripts crafted to simplify
 
 I hope that these scripts, brewed from a teaspoon of efficiency and a big cup of laziness, help you work smarter and not harder. Most would have been quite helpful to have when I started my journey as a young bioinformatics padawan.
 
-# Find a script:  
+# Find a script  
 programName_task.sh  
   
 phyluce_MappingConfig.sh : make configuration file for mapping workflow in Phyluce v.1.7.* - interactive script, add chmod +x permission, execute script and follow prompt  
@@ -13,4 +13,4 @@ phyluce_CorrectionConfig.sh : make configuration file for correction workflow in
   
 Feel free to use, modify and/or improve those scripts as you please. Let's be lazy together, but in a productive way!  
 
-# Best fishes and Happy Coding!**
+# Best fishes and Happy Coding!
