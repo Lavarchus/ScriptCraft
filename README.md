@@ -1,6 +1,6 @@
 This repository houses a miscellaneous collection of scripts crafted to simplify very random and repetitive tasks across different programs.  
 
-I hope that these scripts, brewed from a teaspoon of efficiency and a big cup of laziness, help you work smarter and not harder. Most would have been quite helpful to have when I started my journey as a young bioinformatics padawan.
+I hope that these scripts, brewed from a teaspoon of efficiency and a big cup of laziness, will help bioinformatics padawan like myself in their exploration of the bioinfo space.
 
 # Find a script  
 programName_task.sh  
