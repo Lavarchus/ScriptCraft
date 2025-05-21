@@ -1,3 +1,5 @@
+# Description
+
 This repository houses a miscellaneous collection of shell scripts crafted to facilitate bioinformatic tasks across different programs.  
 
 I hope that these scripts, brewed from a teaspoon of efficiency and a big cup of laziness, will help bioinformatics padawan like myself in their exploration of the bioinfo space.
