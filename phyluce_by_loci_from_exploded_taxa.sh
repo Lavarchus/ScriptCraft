@@ -6,12 +6,12 @@
 # Created 7/11/2022 by Lauriane Baraf lauriane.baraf@my.jcu.edu.au
 
 ## REQUIREMENTS:
-#1 fasta files exploded by taxon from Phyluce (exe .unaligned.fasat)
+#1 fasta files exploded by taxon from Phyluce (exe .unaligned.fasta)
 #2 assembled contigs (.fasta)
 
 ## ADAPT TO YOUR DATA:
-# Add path to directory containing fasta files exploded by taxon (line )
-# Add path to output directory where fasta files exploded by loci will be stored
+# Add path to directory containing fasta files exploded by taxon (line 23)
+# Add path to output directory where fasta files exploded by loci will be stored (line 25)
 # your mapped contigs are in .fmx.sorted.md.bam format as per Phyluce pipeline
 # Modify present script accordingly if needed.
 
