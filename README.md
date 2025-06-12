@@ -13,7 +13,7 @@ phyluce_PhasingConfig.sh : generates configuration file for phasing workflow in 
 
 phyluce_CorrectionConfig.sh : generates configuration file for correction workflow in Phyluce v.1.7.* - interactive script, add chmod +x permission, execute script and follow prompt
 
-phyluce_by_loci_from_exploded_taxa.sh : generates fastas files by loci from subsetted Phyluce fasta files exploded by taxon - define input and output paths in script, add chmod +x permissions and execute script
+filter_exploded_taxa.sh : symlink exploded fasta files from multiple directories for a given list of taxa - check "adapt to your data" section, add chmod +x permissions and execute script
   
 Feel free to use, modify and/or improve those scripts as you please. Let's be lazy together, but in a productive way!  
 
